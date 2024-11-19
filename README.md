@@ -1,6 +1,6 @@
 <div align="center">
-<img src="(https://github.com/pauline-joly/pauline-joly/blob/main/femalecodertocat.png)" align="center" style="width: 100%" />
-</div>  
+<img src="./femalecodertocat.png" style="width: 50%;/>
+</div>
   
 
 ### <div align="center">Étudiante en 1ère année de Bachelor IT dans le but de me spécialiser en Réseau et Cybersécurité</div>  
@@ -32,15 +32,12 @@ Langage de programmation: Python, Bash, C++
 ## My Skill Set  
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
-
-
 
 
 ### Backend  
