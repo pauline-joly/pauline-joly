@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[/Users/pauline/Desktop/femalecodertocat.png](https://github.com/pauline-joly/pauline-joly/blob/main/femalecodertocat.png)" align="center" style="width: 100%" />
+<img src="(https://github.com/pauline-joly/pauline-joly/blob/main/femalecodertocat.png)" align="center" style="width: 100%" />
 </div>  
   
 
