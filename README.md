@@ -1,18 +1,18 @@
 <div align="center">
-<img src="./femalecodertocat.png" style="width: 50%;/>
+<img src="./octocat-1732095329861.png" style="width: 50%;/>
 </div>
-  
 
-### <div align="center">Étudiante en 1ère année de Bachelor IT dans le but de me spécialiser en Réseau et Cybersécurité</div>  
-  
+### Étudiante en 1ère année de Bachelor IT dans le but de me spécialiser en Réseau et Cybersécurité
+<br />
 
-- 💡En cours d'apprentissage:
 
-Administration système
-Administration réseau
-Linux: Debian, Ubuntu
-Automatisation de tâches: Script python 
-Langage de programmation: Python, Bash, C++
+💡En cours d'apprentissage:
+
+- Administration système <br />
+- Administration réseau <br />
+- Linux: Debian, Ubuntu <br />
+Automatisation de tâches: Script Python <br />
+Langage de programmation: Python, Bash, C++ <br />
   
   
 
@@ -20,11 +20,8 @@ Langage de programmation: Python, Bash, C++
 - ✅ Cours 1 - Fondamentaux de la cybersécurité  
   
 
-- ❓ Je serais ravie d'échanger autour de sujets de cyber et d'en apprendre davantage  
-  
-
-- ⚡ Fun fact: Viens me parler et tu sauras ;)  
-  
+- ❓ Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
+    
 
 <br/>  
 
@@ -92,18 +89,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
