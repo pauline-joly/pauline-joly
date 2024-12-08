@@ -2,6 +2,8 @@
 <img src="./octocat-1732095329861.png" style="width: 50%;/>
 </div>
 
+<br />
+<br />
 ### Étudiante en 1ère année de Bachelor IT dans le but de me spécialiser en Réseau et Cybersécurité
 <br />
 
