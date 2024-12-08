@@ -1,25 +1,28 @@
 <div align="center">
 <img src="./octocat-1732095329861.png" style="width: 50%;/>
 </div>
-
-<br />
-<br />
-### Étudiante en 1ère année de Bachelor IT dans le but de me spécialiser en Réseau et Cybersécurité
-<br />
+<br /> 
 
 
-💡En cours d'apprentissage:
+<br />
+### Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau. <br /> En recherche d'une alternance pour Septembre 2025.
+<br />
+
+
+
+# 💡En cours d'apprentissage:
 
 - Administration système <br />
 - Administration réseau <br />
 - Linux: Debian, Ubuntu <br />
-Automatisation de tâches: Script Python <br />
-Langage de programmation: Python, Bash, C++ <br />
+- Automatisation de tâches: Script Python <br />
+- Langage de programmation: Python, Bash, C++ <br />
   
   
 
-- 👀 WIP Certificat Professionnel Google Cybersécurité
-- ✅ Cours 1 - Fondamentaux de la cybersécurité  
+- 👀 WIP Certificat Professionnel Google Cybersécurité <br />
+- ✅ Cours 1 - Fondamentaux de la cybersécurité
+- ✅ Cours 2 - 
   
 
 - ❓ Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
