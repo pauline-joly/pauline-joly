@@ -5,7 +5,7 @@
 <br /> 
 
 <br />
-# Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
+## Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
 En recherche d'une alternance pour Septembre 2025.
 
 <br />
@@ -20,7 +20,7 @@ En recherche d'une alternance pour Septembre 2025.
   
 <br />  
 
-- # 👀 WIP Certificat Professionnel Google Cybersécurité <br />
+##  👀 WIP Certificat Professionnel Google Cybersécurité <br />
 - ✅ Cours 1 - Fondamentaux de la cybersécurité
 - ✅ Cours 2 - Gestion des risques de sécurité
   
