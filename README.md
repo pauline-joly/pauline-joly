@@ -5,7 +5,7 @@
 <br /> 
 
 <br />
-## Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
+#  Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
 En recherche d'une alternance pour Septembre 2025.
 
 <br />
