@@ -5,7 +5,8 @@
 <br /> 
 
 <br />
-## Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
+
+##  Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
 En recherche d'une alternance pour Septembre 2025.
 
 <br />
@@ -68,7 +69,7 @@ En recherche d'une alternance pour Septembre 2025.
   
 <br/>  
 
-## ** Github Stats**
+## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pauline-joly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
