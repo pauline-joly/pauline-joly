@@ -5,27 +5,27 @@
 <br /> 
 
 <br />
-###  ** Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
+###  Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
 En recherche d'une alternance pour Septembre 2025.
 
 <br />
 
-# ** 💡En cours d'apprentissage:
+# 💡En cours d'apprentissage:
 
-- **Administration système 
-- **Administration réseau
-- **Linux: Debian, Ubuntu 
-- **Automatisation de tâches: Script Python 
-- **Langage de programmation: Python, Bash, C++
+- Administration système 
+- Administration réseau
+- Linux: Debian, Ubuntu 
+- Automatisation de tâches: Script Python 
+- Langage de programmation: Python, Bash, C++
   
 <br />  
 
-- ** 👀 WIP Certificat Professionnel Google Cybersécurité <br />
-- ✅ **Cours 1** - Fondamentaux de la cybersécurité
-- ✅ **Cours 2** - Gestion des risques de sécurité
+- # 👀 WIP Certificat Professionnel Google Cybersécurité <br />
+- ✅ Cours 1 - Fondamentaux de la cybersécurité
+- ✅ Cours 2 - Gestion des risques de sécurité
   
 
-- 🔑 **Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
+- 🔑 Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
     
 
 <br/>  
@@ -55,7 +55,7 @@ En recherche d'une alternance pour Septembre 2025.
 </td></tr></table>  
 <br/>  
 
-## ** Connect with me **  
+## Connect with me 
 <div align="center">
   <a href="https://github.com/pauline-joly" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
