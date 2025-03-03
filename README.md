@@ -6,8 +6,8 @@
 
 <br />
 
-##  Bachelor IT @La Plateforme, dans le but de me spécialiser en Administration Système et Réseau.
-En recherche d'une alternance pour Septembre 2025.
+##  Bachelor IT @La Plateforme, en Administration Système et Réseau.
+En recherche d'une alternance de 24 mois à partir de Septembre 2025.
 
 <br />
 
@@ -27,7 +27,7 @@ En recherche d'une alternance pour Septembre 2025.
   
 <br />
 
-- 🔑 Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
+##  🔑 Je serais ravie d'échanger autour de sujets d'actualités cyber et d'en apprendre d'avantage.
     
 
 <br/>  
